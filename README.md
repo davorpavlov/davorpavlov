@@ -3,6 +3,9 @@
 Crafting intelligent workflows with `n8n`, `Python`, `OpenAI`, and `Make.com`  
 [🌐 davorpavlovic.com](https://davorpavlovic.com) | [📫 davor@davorpavlovic.com](mailto:davor@davorpavlovic.com)
 
+💼 Helping creators automate their ideas  
+🛠️ Building with n8n, Python, Supabase  
+🎯 From data to delivery – without friction  
 ---
 
 ## 🚀 About Me
